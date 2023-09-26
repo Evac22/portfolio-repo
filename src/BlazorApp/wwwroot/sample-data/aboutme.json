@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I am a student at Vinnytsia National Technical University, specializing in Automation and Computer-Integrated Technologies. I have a strong passion for developing applications using .NET and I am eager to apply my programming skills to create innovative software solutions. Let's collaborate and build exceptional applications together.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Web development",
+    "Programming Languages: C#, C++, Python, JavaScript (React)",
+    "Understanding of software development principles and OOP paradigm",
+    "Experience with GitHub and version control",
+    "Basics of working with MSQL databases",
+    "Ability to quickly learn and adapt to new technologies and tools"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am eager to contribute to exciting projects and accelerate my personal development as a developer."
 }
