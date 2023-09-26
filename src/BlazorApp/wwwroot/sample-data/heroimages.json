@@ -1,13 +1,13 @@
 [
   {
     "name": "home",
-    "src": "images/Vlad_Cubarov.jpg",
+    "src": "images/Vladislav-Chubarov.jpg",
     "alt": "men"
   },
   {
     "name": "about",
-    "src": "images/Green.jpg",
-    "alt": "green abstract background"
+    "src": "images/Grey.jpg",
+    "alt": "grey abstract background"
   },
   {
     "name": "portfolio",
